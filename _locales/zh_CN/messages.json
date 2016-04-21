@@ -1,1 +1,10 @@
-{"name":{"message":"Test 扩展名字"},"title":{"message":"这是扩展标题"},"description":{"message":"\u5feb\u901f\u67e5\u770b\u79bb\u60a8\u7684\u4efb\u610f\u65e5\u5386\u4e2d\u4e0b\u4e00\u6b21\u4f1a\u8bae\u8fd8\u6709\u591a\u957f\u65f6\u95f4\u3002\u60a8\u53ea\u9700\u70b9\u51fb\u8be5\u6309\u94ae\u5373\u53ef\u8fdb\u5165\u81ea\u5df1\u7684\u65e5\u5386\u3002"},"pausescan":{"message":"暂停扫描"},"startscan":{"message":"启动扫描"},"check_result":{"message":"查看结果"}}
+{
+	"name":{"message":"Test 扩展名字"},
+	"title":{"message":"这是扩展标题"},
+	"description":{"message":"\u5feb\u901f\u67e5\u770b\u79bb\u60a8\u7684\u4efb\u610f\u65e5\u5386\u4e2d\u4e0b\u4e00\u6b21\u4f1a\u8bae\u8fd8\u6709\u591a\u957f\u65f6\u95f4\u3002\u60a8\u53ea\u9700\u70b9\u51fb\u8be5\u6309\u94ae\u5373\u53ef\u8fdb\u5165\u81ea\u5df1\u7684\u65e5\u5386\u3002"},
+	"pausescan":{"message":"暂停扫描"},
+	"startscan":{"message":"启动扫描"},
+	"check_result":{"message":"查看结果"},
+	"options":{"message":"选项"},
+	"add_to_blacklist":{"message":"添加黑名单"}
+}
